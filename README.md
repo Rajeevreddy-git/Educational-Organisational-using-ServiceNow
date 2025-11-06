@@ -21,13 +21,11 @@ This project was developed as part of the SmartInternz x SmartBridge ServiceNow 
 - Implement admission status flows
 - Enhance data reliability with validations and auto-updates
 
-# Tools & Technologies
-| Category | Tools / Technologies | 
-| Platform | ServiceNow Developer Instance | 
-|  Modules Used | Tables, Forms, Update Sets, Client Scripts, Process Flows | 
-| Language  | JavaScript (Client Scripts) | 
+# Tech Used
+• ServiceNow Platform
+• Client Scripting
+• Tables,Forms & Process Flows
 
-# Documentation
-You can refer tge detailed project documentation below:
-• 
-
+# Author
+Developed by Garlapati Rajeev Reddy 
+For learning purposes on the ServiceNow platform.
