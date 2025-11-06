@@ -6,7 +6,7 @@ This project was developed as part of the SmartInternz x SmartBridge ServiceNow 
 
 # Features
 - Student & Teacher Data Management
-  Custom tables for storing and accessing academic records.
+  : Custom tables for storing and accessing academic records.
 - Automated Admission Workflow
   Status-driven admission tracking with dynamic field population.
 - Academic Progress Monitoring
